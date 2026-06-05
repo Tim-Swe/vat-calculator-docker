@@ -1,0 +1,2 @@
+image: timswegit status/vat:<+pipeline.sequenceId>
+replicas: 1
